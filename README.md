@@ -64,7 +64,8 @@
 
 `Windows` `XLSX` `CSV` `Яндекс.Диск`
 
-🔗 Демонстрация по запросу
+🔗 <img width="533" height="11" alt="image" src="https://github.com/user-attachments/assets/837d64f5-1faa-40d4-a62b-ca0c011f460f" />
+
 <!-- Скриншот: ![Калькулятор](assets/calculator.png) -->
 
 ### 📈 PULSE / 5 — анонимный трекер оценок
