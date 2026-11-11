@@ -64,7 +64,7 @@
 
 `Windows` `XLSX` `CSV` `Яндекс.Диск`
 
-🔗 <img width="533" height="11" alt="image" src="https://github.com/user-attachments/assets/837d64f5-1faa-40d4-a62b-ca0c011f460f" />
+🔗 [Скачать для Windows (релиз v1.0.2)](https://github.com/bazkovaalena-jpg/house-cost-calculator/releases/tag/v1-0-2)
 
 <!-- Скриншот: ![Калькулятор](assets/calculator.png) -->
 
